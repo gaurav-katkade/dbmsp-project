@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    padding:0;
+    font-size: large;
+    color:black;
+    /* background-image: url("images/SL2.jpg"); */
+    background-image: url("/images/Usign-Gradients-Featured-Image.jpg");
+    color:white;
+    background-size: cover;
+}
+input[type=text],input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #585858;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+.login_box{
+    position: absolute;
+    top:20%;
+    left:33%;
+    width:30%;
+    padding:2%;
+    border:solid black 2px;
+    border-radius:10px;
+    text-align: center;
+}
+
+.i1{
+    width:80%;
+    
+    
+}
+.login_button{
+    width:30%;
+    cursor:pointer;
+   
+}
